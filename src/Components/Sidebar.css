@@ -1,0 +1,63 @@
+
+.sidebar-content {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 250px;
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    transition: transform 0.3s ease-in-out;
+    transform: translateX(-100%);
+   }
+   
+   .sidebar-content.open {
+    transform: translateX(0);
+   }
+   
+   .sidebar-toggle-btn {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    background: none;
+    border: none;
+    color: black;
+    cursor: pointer;
+    font-size: 24px;
+   }
+   
+   .sidebar-logo {
+    margin-bottom: 20px;
+   }
+   
+   .sidebar-content a {
+    display: block;
+    font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', cursive, sans-serif;
+    color: white;
+    text-decoration: none;
+    margin-bottom: 10px;
+   }
+   
+   .sidebar-content a.active {
+    color: cyan;
+   }
+
+   .sidebar-logo {
+    display: flex;
+    align-items: center; 
+    margin-bottom: 20px;
+   }
+   
+   .logo-icon {
+    width: 50px; 
+    height: 50px; 
+    margin-right: 10px; 
+   }
+
+   .logo-text {
+    color: cyan;
+    font-size: 20px; /* Increase the font size */
+    font-weight: bold; /* Make the text bold */
+    font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', cursive, sans-serif;
+   }

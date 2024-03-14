@@ -1,0 +1,108 @@
+/* Add your unique CSS rules here */
+.table-container {
+    width: 80%;
+    margin: 0 auto;
+    align-content: center;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  
+  th, td {
+    padding: 15px;
+    text-align: left;
+    border: 1px solid #dba55a;
+  }
+  
+  th {
+    background-color: #eee1c1;
+  }
+  
+  tr:hover {
+    background-color: #f5f4f2;
+  }
+  
+  button {
+    padding: 10px;
+    color: white;
+    margin: 5px;
+    cursor: pointer;
+  }
+  
+  .view-details-btn {
+    background-color: blue;
+  }
+  
+  .view-details-btn:hover {
+    background-color: #007bff;
+  }
+  
+  .edit-status-btn {
+    background-color: darkcyan;
+  }
+  
+  .edit-status-btn:hover {
+    background-color: cyan;
+  }
+  
+  .delete-btn {
+    background-color: darkred;
+  }
+  
+  .delete-btn:hover {
+    background-color: rgb(185, 3, 3);
+  }
+
+  h1.ord{
+    margin-top: 20px;
+    margin-bottom: 40px;
+  }
+
+  /* Modal styles */
+  .order-details-modal, .edit-status-modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .order-details, .edit-status-form {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .order-details h2, .edit-status-form h2 {
+    margin-top: 0;
+  }
+  
+  .order-details p, .edit-status-form select {
+    margin-bottom: 10px;
+  }
+  
+  .close-btn, .cancel-btn {
+    padding: 10px 20px;
+    background-color: #007bff;
+    border: none;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .close-btn:hover, .cancel-btn:hover {
+    background-color: #0056b3;
+  }
+
+  .td-btn{
+    display: flex;
+    gap: 5px;
+  }

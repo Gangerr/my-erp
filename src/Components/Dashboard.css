@@ -1,0 +1,12 @@
+h1 {
+    font-weight: bold;
+    font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', cursive, sans-serif; /* Use Comic Sans */
+   }
+
+div.cards{
+    background-color: peachpuff;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}

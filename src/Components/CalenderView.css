@@ -1,0 +1,66 @@
+
+.calendar-container {
+    color: black;
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  h1.cal{
+    margin-bottom: 10px;
+  }
+  
+  .react-calendar {
+    max-width: 500px; 
+    margin: 30px auto; 
+  } 
+  .modal {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .modal h3 {
+    margin-bottom: 10px;
+  }
+  
+  button{
+    background-color: darkcyan;
+    margin: 0px !important;
+  }
+  
+  button:hover{
+    background-color: cyan;
+  }
+  
+  .modal button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+  .modal button:hover {
+    background-color: #0056b3;
+  }
+  
+  .modal p {
+    margin: 5px 0;
+  }
+  
+  .modal hr {
+    border: 0;
+    border-top: 1px solid #eee;
+    margin: 10px 0;
+  }
+  
+  

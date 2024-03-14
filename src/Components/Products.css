@@ -1,0 +1,75 @@
+.table-container {
+    width: 80%;
+    margin: 0 auto;
+    align-content: center;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  
+  th, td {
+    padding: 15px;
+    text-align: left;
+    border: 1px solid beige;
+  }
+  
+  th {
+    background-color: burlywood;
+  }
+  
+  tr:hover {
+    background-color: peachpuff;
+  }
+
+  button{
+    padding: 10px;
+    color: blue;
+    margin: 5px !important; 
+  }
+
+  .add-product-btn-container{
+    padding-top: 20px;
+    padding-bottom: 10px;
+    width: 90%;
+    text-align: right;
+  }
+
+  button.add-product{
+    background-color: darkorange;
+  }
+
+  button.add-product:hover{
+    background-color: peachpuff;
+  }
+
+  button.edit{
+    background-color: violet;
+  }
+
+  button.edit:hover{
+    background-color: darkmagenta;
+  }
+
+  button.delete{
+    background-color: darkred;
+  }
+
+  button.delete:hover{
+    background-color: rgb(185, 3, 3);
+  }
+
+  .product-form {
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  .form-input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
