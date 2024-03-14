@@ -53,7 +53,7 @@ Below are screenshots showcasing different pages and features of the React ERP S
 1. #### SideBar
 
    This is the sidebar which provides a collapsable quick navigation bar to see the menu items -(Dashboard, Products and Orders, CalendarView sections.) 
-   ![image](https://github.com/Gangerr/my-erp/assets/138370201/06218e98-76fe-448a-9cc6-05b218faa1cb)
+   ![image](https://github.com/Gangerr/my-erp/assets/138370201/bed256a9-826a-4754-b81f-0b930ed47ecb)
 
 
 2. #### Dashboard
@@ -65,21 +65,21 @@ Below are screenshots showcasing different pages and features of the React ERP S
 2. #### Products Management
 
    Products contains all the available products details with adding new product, editing and deleting a product.
-   ![image](https://github.com/Gangerr/my-erp/assets/138370201/2e35a175-9f94-4748-97ae-d2010124e58e)
+   ![image](https://github.com/Gangerr/my-erp/assets/138370201/5bc78978-56f7-4afa-a574-e4cce5e97beb)
 
 
 
 3. #### Order Management
 
    Orders contains all the current order details.
-   ![image](https://github.com/Gangerr/my-erp/assets/138370201/9920f40c-985b-4bd7-a50f-3b9f82c8a9e4)
+   ![image](https://github.com/Gangerr/my-erp/assets/138370201/4367d504-bf58-4c08-8be0-8427d299830b)
 
 
 
 4. #### Calendar-View
 
    Calendar view contains expected delivery dates for products. 
-   ![image](https://github.com/Gangerr/my-erp/assets/138370201/f1e05bd8-23fc-4104-92be-5584a3e87a05)
+   ![image](https://github.com/Gangerr/my-erp/assets/138370201/f9c96f97-064e-4bb4-b176-53befd2041cd)
 
 
 
