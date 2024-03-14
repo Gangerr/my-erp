@@ -16,12 +16,6 @@ It offers the following features:
 * ***Orders Calendar View***: Presents a calendar interface for visualizing orders based on expected delivery dates, allowing you to click on a date to see all orders due that day.
 
 
-## Technology Used
-* ***Frontend***: React
-* ***Routing***: React Router
-* ***Styling***: CSS
-* ***Data Handling***: Utilized mock data for Products and Orders
-
 ## Installation
 #### To install and run the React ERP System on your local machine, follow these steps:
 1. #### Clone the repository to your local machine using the following command:
@@ -59,7 +53,8 @@ Below are screenshots showcasing different pages and features of the React ERP S
 2. #### Dashboard
 
    Provides an overview of key metrics and quick navigation to product and order management sections.
-   ![image](https://github.com/Gangerr/my-erp/assets/138370201/c241a711-96a7-4af2-be7e-a016c4c25ae3)
+   ![image](https://github.com/Gangerr/my-erp/assets/138370201/e035e1f8-9a50-47fb-a2c1-f76714d5c5d9)
+
 
 
 2. #### Products Management
